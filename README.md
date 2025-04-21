@@ -11,7 +11,7 @@ A simple web app that lets you search for a Pokémon by name and displays its im
 
 ## 📸 Screenshot
 
-![Screenshot](screenshot.png)
+![Pokemon Search App Screenshot](assets/screenshot.png)
 
 ## 🛠️ Tech Stack
 
